@@ -1,0 +1,19 @@
+{
+  "name": "React-Express",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ysadka/gol_ber",
+  "authors": [
+    "Germain Boue <boue.germain@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
